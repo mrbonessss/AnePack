@@ -6,10 +6,11 @@
    "dependencies": [
      "denikson-BepInExPack_Valheim-5.4.1901",
      "RandyKnapp-ExtendedItemDataFramework-1.0.11",
+     "ValheimPlus-ValheimPlus-9.9.11",
+     "ValheimModding-Jotunn-2.10.4",
      "RandyKnapp-EpicLoot-0.9.8",
      "GoldenJude-Blacksmiths_tools-2.0.2",
      "GoldenJude-Judes_Equipment-2.2.3",
-     "ValheimModding-Jotunn-2.10.4",
      "HugotheDwarf-More_and_Modified_Player_Cloth_Colliders-3.1.0",
      "ZOR-SmartContainers-1.6.0",
      "MSchmoecker-MultiUserChest-0.4.3",
