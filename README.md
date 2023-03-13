@@ -13,7 +13,7 @@ More fun, less annoying.
 - Clutter by OdinPlus
 - OdinArchitect by OdinPlus
 - More_and_Modified_Player_Cloth_Colliders by HugotheDwarf
-- SmartContainers by ZOR
+- SmartContainers by Roses
 - MultiUserChest by MSchmoecker
 - Evasion by Smoothbrain
 - Useful_Trophies by Maximmus
