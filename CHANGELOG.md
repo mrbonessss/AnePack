@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
  
 
+## [1.0.3] - 2023-03-13
+
+### Added 
+- Added Heightmap Unlimited Remake mod (https://valheim.thunderstore.io/package/Digitalroot/Heightmap_Unlimited_Remake/)
+
 ## [1.0.2] - 2023-03-13
  
 ### Added 
