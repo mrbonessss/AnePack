@@ -1,9 +1,9 @@
-#AnePack
+# AnePack
 Quality-of-Life and added content.
 More fun, less annoying.
 
 
-##Mod-list
+## Mod-list
 - BepInExPack_Valheim by denikson
 - ExtendedItemDataFramework by RandyKnapp
 - EpicLoot by RandyKnapp
