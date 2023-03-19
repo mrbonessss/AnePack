@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.0.5] - 2023-03-19
+
+- Added HookGenPatcher mod (https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher/)
+- Added ValheimPlusFix214 (https://valheim.thunderstore.io/package/Harleyy/ValheimPlusFix214/)
 
 ## [1.0.4] - 2023-03-14
 
